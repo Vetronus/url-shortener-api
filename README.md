@@ -18,9 +18,9 @@ If you are wondering how much functionality does it contain and how much time it
 - #### Every new `link` object is given a unique numeral id.
 - #### `Link` route contains all the CRUD methods to manipulate the `link` objects.
 
-## How to use the NEM Stack Template ?
-- ### Download or clone this template.
-- ### Replace the `URI` var with the URI of the MongoDB database.
+## How to use or modify this API?
+- ### Download or clone this repo.
+- ### Replace the `URI` var with the URI of the MongoDB database in `main.js`.
 - ### Add all the extra `routes` and `models` that you want to add.
 - ### Edit `main.js` to add new routes, api and web-pages.
 - ### Push it to the Heroku server or any other cloud and deploy.
