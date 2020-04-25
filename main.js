@@ -36,4 +36,4 @@ app.use(handler.handleError);
 
 // Starting Server
 const port = process.env.PORT || 3000;
-app.listen(port, function(){console.log("NEM Stack | ", port);});
+app.listen(port, function(){console.log("URL Shortener API | ", port);});
